@@ -48,6 +48,10 @@ lsof -i -n | egrep 'COMMAND|LISTEN'
 sudo apt-get remove --purge php-fpm
 ```
 
+
+
+## Summary
+
 It appears that the installation of `iredmail` and `modoboa` on the same server causes a configuration clash. 
 
 * `php-form` was running on port 9999 which was specified by dovecot for `smtpd_recipient_restrictions`
