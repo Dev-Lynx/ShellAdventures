@@ -1,4 +1,4 @@
 ### Shell Adventures
 
-Collection of logs and accounts documenting my working with command line interfaces 😉.
+Collection of logs and accounts documenting my work with command line interfaces 😉.
 
